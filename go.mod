@@ -23,13 +23,12 @@ require (
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/pkg/errors v0.9.1
 	github.com/shopspring/decimal v1.2.0
-	github.com/sirupsen/logrus v1.7.0
-	github.com/stretchr/testify v1.6.1
+	github.com/sirupsen/logrus v1.9.0
+	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.6.3
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
 	golang.org/x/mod v0.3.0
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
